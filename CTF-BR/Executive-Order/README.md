@@ -32,5 +32,9 @@ $ ./configure --enable-tests && make
 ```
 A decodificação da mensagem foi realizada com sucesso, gerando o arquivo de saida fax_decode.tif (https://github.com/schleuss/writeups/raw/master/CTF-BR/Executive-Order/fax_decode.tif)
 
+```shell
+$ ./fax_decode ~/wiretap.wav
+```
+
 
 **CTF-BR{ITU-T_30-pR0toCoL_seNds_b3aut1fuL_IMGs_ovEr_PSTN}**
